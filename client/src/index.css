@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('./assets/landingPageBackGround.jpg'); */
+  background-color: rgb(241, 239, 209);
+  background-size: 100vmax;
 }
 
 code {

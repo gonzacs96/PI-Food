@@ -1,0 +1,25 @@
+.button {
+    background-color: rgb(219, 191, 150);
+    border:  solid 0.2rem rgb(247, 209, 128) ;
+    border-radius: 1.5rem;
+    cursor: pointer;
+}
+
+.cardRecipeLink{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.cardRecipe{
+    list-style: none;
+}
+
+.conteinerList{
+    display: grid;
+    grid-gap: 1px;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}
+

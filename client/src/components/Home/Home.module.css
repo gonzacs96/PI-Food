@@ -1,0 +1,23 @@
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.h1 {
+    color:black;
+    background-color: rgb(219, 191, 150);
+    border-radius: 2rem;
+    width: 30rem;
+    border:  solid 0.2rem rgb(247, 209, 128) ;
+    margin-bottom: 60px;
+    align-self: center;
+}
+
+.conteinerTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
